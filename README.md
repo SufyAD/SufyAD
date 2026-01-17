@@ -76,9 +76,9 @@ I enjoy solving problems where **design intent, RTL behavior, and verification r
 
 ## 📫 How to Reach Me
 
-- **GitHub:** https://github.com/<your-username>
-- **LinkedIn:** https://linkedin.com/in/<your-profile>
-- **Email:** <your-email>
+- **GitHub:**    https://github.com/SufyAD
+- **LinkedIn:**  https://linkedin.com/in/<your-profile>](https://www.linkedin.com/in/muhammad-sufyan-ahmed/)
+- **Email:**     muhammadsufyanahmed20@gmail.com
 
 ---
 
